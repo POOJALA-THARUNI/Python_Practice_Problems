@@ -1,0 +1,6 @@
+transaction_id,product_type,flavor,quantity,price_per_unit_inr,staff_id
+151,Frozen,Kulfi,2,180.0,EMP001
+152,Dessert,Cake,1,100.0,EMP002
+153,Frozen,Strawberry,3,140.0,EMP004
+154,Beverage,Iced Tea,2,110.0,EMP003
+155,Dessert,Brownie,1,120.0,EMP005

@@ -1,0 +1,4 @@
+order_id,customer_name,product_id,product_name,quantity,unit_price_inr,order_date,total_price_inr
+201,Rahul,PROD001,Chocolate Chip,2,120,2025-08-01,240
+202,Ananya,PROD005,Vanilla Dream,3,180,2025-08-02,540
+203,Aarav,PROD002,Mango Medley,1,150,2025-08-03,150
